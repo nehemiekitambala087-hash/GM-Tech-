@@ -1,0 +1,7 @@
+{
+  "name": "GM Tech Sarl",
+  "description": "Application officielle GM Tech Sarl : Solutions solaires, électricité, climatisation, plomberie, forages, catalogue produits, devis automatique, contact WhatsApp et espace d'administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
